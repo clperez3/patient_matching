@@ -1,2 +1,2 @@
 # patient_matching
-Program to automate pdf matching to patient
+Program to automate posting incoming pdf documents to corresponding patient EMR
